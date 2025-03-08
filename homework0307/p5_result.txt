@@ -1,0 +1,11 @@
+# p5_parentwait result:
+
+[Child] Hello (pid 2166205), parent is 2166204
+[Parent] Wait Child (pid:2166205)'s Result is 2166205
+[Parent] Own pid: 2166204
+
+# p5_childwait result:
+
+[Parent] Hello (pid 2166214), Child is 2166215
+[Child] Wait Parent (pid:2166214)'s Result is -1
+[Child] Own pid: 2166215

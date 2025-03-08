@@ -1,0 +1,7 @@
+[Parent] A parent process (pid:2162613) of process 2162614
+[Parent] Access x's value: 100
+[Parent] Change x's value to 200
+[Child] A child process (pid:2162614)
+, parent is 2162613
+[Child] Access x's value: 100
+[Child] Change x's value to 10

@@ -1,0 +1,4 @@
+[Child] hello
+[Child] Message parent a var child_msg_flag
+[Parent] Get child_mes_flag: 1
+[Parent] goodbye

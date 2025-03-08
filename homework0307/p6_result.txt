@@ -1,0 +1,11 @@
+# p6_parentwait result:
+
+[Child] Hello (pid 2166733), parent is 2166732
+[Parent] Wait Child (pid:2166733)'s Result is 2166733
+[Parent] Own pid: 2166732
+
+# p6_childwait result:
+
+[Parent] Hello (pid 2166861), Child is 2166862
+[Child] Wait Parent (pid:2166861)'s Result is -1
+[Child] Own pid: 2166862
